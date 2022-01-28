@@ -1,0 +1,2 @@
+O teste de unidade, visa testar o funcionamento do codigo, ao invés do comportamento da aplicação
+Testes funcionais focam em alto nível, enquanto que testes de unidade focam em aspecto de mais baixo nivel 
