@@ -1,0 +1,10 @@
+O TDD visa fortalecer o processo de desenvolvimento orientado a testes, ou seja,
+a ideia é que os testes sejam escritos antes do codigo em si de forma que os testes validem 
+aquilo que esta sendo desenvolvido durante o desenvolvimento da aplicação,
+
+A ideia é que você escreva um teste funcional e rode-o para verificar se o teste passa,
+em caso positivo, você analisa se a aplicação precisa ser refatorada se não você pode ir 
+para o proximo passo, que é escrever outro teste funcional,
+
+Em caso negativo, o teste não passe, ai sim vamos para escrever um teste de unidade,
+Porque? porque o teste de unidade foca em um escopo menor e mais fechado, ele busca uma unidade menor de codigo
